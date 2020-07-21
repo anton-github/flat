@@ -1,6 +1,6 @@
 {
   "name": "flat",
-  "version": "4.9.0",
+  "version": "4.1.0",
   "types": "index.d.ts",
   "main": "index.js",
   "bin": "cli.js",
